@@ -1,87 +1,66 @@
-# Make It Real - NAME OF THE PROJECT
+# Error 404 - Página no encontrada
 
-This is a solution to the _______ project of the Make It Real course.
+Este es un proyecto de solución para el desafío de la página de error 404 del curso de Make It Real.
 
-## Table of contents
+## Tabla de contenidos
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Descripción](#descripción)
+- [Captura de pantalla](#captura-de-pantalla)
+- [Mi enfoque](#mi-enfoque)
+- [Construido con](#construido-con)
+- [Aprendizajes](#aprendizajes)
+- [Continuar el desarrollo](#continuar-el-desarrollo)
+- [Recursos útiles](#recursos-útiles)
+- [Autor](#autor)
+- [Reconocimientos](#reconocimientos)
 
+## Descripción
 
-## Overview
+Este proyecto es una solución para el desafío de la página de error 404. El objetivo es crear una página responsive que muestre un mensaje de error cuando se acceda a una página no encontrada.
 
-### The challenge
+### Captura de pantalla
 
-Users should be able to:
+![Captura de pantalla](./screenshot.jpg)
 
-- Task 1
-- Task 2
+## Mi enfoque
 
-### Screenshot
+Para abordar este proyecto, utilicé HTML semántico y CSS para construir la estructura y el diseño de la página. Implementé un enfoque de diseño móvil primero y luego utilicé estilos CSS responsivos para adaptar la página a diferentes tamaños de pantalla.
 
-![](./screenshot.jpg)
+### Construido con
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML semántico
+- CSS personalizado
 - Flexbox
-- Mobile-first workflow
+- Enfoque de diseño móvil primero
 
-### What I learned
+### Aprendizajes
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Durante este proyecto, pude aprender y practicar los siguientes conceptos:
 
-To see how you can add code snippets, see below:
+- Utilizar HTML semántico para una estructura clara y significativa.
+- Aplicar estilos CSS personalizados para lograr el diseño deseado.
+- Utilizar Flexbox para crear diseños flexibles y responsivos.
+- Aplicar enfoque móvil primero para asegurar un diseño adaptativo.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+## Continuar el desarrollo
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+En futuros proyectos, me gustaría seguir enfocándome en:
 
-### Continued development
+- Mejorar mi conocimiento de Flexbox y CSS Grid para crear diseños aún más complejos.
+- Explorar técnicas avanzadas de diseño responsivo, como el uso de Media Queries y unidades relativas.
+- Profundizar en la accesibilidad web y asegurarme de que mis proyectos sean accesibles para todos los usuarios.
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+## Recursos útiles
 
-### Useful resources
+Aquí hay algunos recursos que encontré útiles al trabajar en este proyecto:
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Guía de CSS de Mozilla](https://developer.mozilla.org/es/docs/Web/CSS) - Esta guía es una excelente referencia para aprender y consultar propiedades y técnicas de CSS.
+- [Flexbox Froggy](https://flexboxfroggy.com/) - Esta divertida y educativa herramienta interactiva me ayudó a practicar y comprender mejor Flexbox.
 
-## Author
+## Autor
 
-- Website - [Add your name here](https://www.your-site.com)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Alma Mena 
 
+## Reconocimientos
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Agradezco a la comunidad de Make It Real y a mis compañeros de curso por su apoyo y colaboración en el desarrollo de este proyecto. También quiero reconocer a los recursos en línea y tutoriales que consulté para ampliar mis conocimientos durante este proceso.
